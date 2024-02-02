@@ -2,4 +2,4 @@
 
 This is repo in which I am commiting all the files I wrote in selenium training
 
-Please Check
+All my future files will be version controlled and so will be tracked by github and git
